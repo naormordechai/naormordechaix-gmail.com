@@ -84,7 +84,7 @@ body {
 
 @media(max-width: 724px) {
     .boxes-section .box {
+        min-width: 320px;
         flex: 1;
-        min-width: 250px;
     }
 }
